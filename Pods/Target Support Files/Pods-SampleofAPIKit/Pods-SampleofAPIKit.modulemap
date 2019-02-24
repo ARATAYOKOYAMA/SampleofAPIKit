@@ -1,0 +1,6 @@
+framework module Pods_SampleofAPIKit {
+  umbrella header "Pods-SampleofAPIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

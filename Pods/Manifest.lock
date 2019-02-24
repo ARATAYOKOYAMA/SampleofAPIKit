@@ -1,0 +1,33 @@
+PODS:
+  - APIKit (4.0.0):
+    - Result (~> 4.0)
+  - MatchaTea (0.1.0)
+  - Result (4.0.0)
+  - RxCocoa (4.3.1):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.3.1)
+
+DEPENDENCIES:
+  - APIKit
+  - MatchaTea
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - APIKit
+    - MatchaTea
+    - Result
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  APIKit: 23ddce4be7eccd746d2ab3c62713cd80d5846d5a
+  MatchaTea: 7a8d4c9f8c87dcb09400cdcb04ef0b475fe813b2
+  Result: 7645bb3f50c2ce726dd0ff2fa7b6f42bbe6c3713
+  RxCocoa: 78763c7b07d02455598d9fc3c1ad091a28b73635
+  RxSwift: fe0fd770a43acdb7d0a53da411c9b892e69bb6e4
+
+PODFILE CHECKSUM: 7f77ef536bd29c9c97d73dbe6322d32f4dd565c7
+
+COCOAPODS: 1.5.3

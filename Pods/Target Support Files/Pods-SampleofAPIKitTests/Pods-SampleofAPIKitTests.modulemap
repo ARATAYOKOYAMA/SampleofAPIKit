@@ -1,0 +1,6 @@
+framework module Pods_SampleofAPIKitTests {
+  umbrella header "Pods-SampleofAPIKitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

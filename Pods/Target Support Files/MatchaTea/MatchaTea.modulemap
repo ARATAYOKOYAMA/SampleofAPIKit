@@ -1,0 +1,6 @@
+framework module MatchaTea {
+  umbrella header "MatchaTea-umbrella.h"
+
+  export *
+  module * { export * }
+}
